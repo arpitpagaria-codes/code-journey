@@ -1,0 +1,44 @@
+✅ Youtube Channels 
+The Cutting Edge School :    / @cuttingedgeschool   
+Codebasics :    / @codebasics   
+Code with Harry :   / @codewithharry   
+Ishan Sharma :    / @ishansharma7390   
+
+✅ Courses
+1. Course 1 : https://www.deeplearning.ai/courses/a...
+
+2.Course 2: https://www.deeplearning.ai/courses/g...
+
+3. Deeplearning Courses : https://www.deeplearning.ai/courses/
+
+4. Course 3 by Google : https://microsoft.github.io/generativ...
+
+5. Course 4 by Microsoft :   / career-essentials-in-generative-ai-by-micr...  
+
+6. Course 5 by Google : https://www.cloudskillsboost.google/p...
+
+7. Course 6 by Google : https://www.coursera.org/learn/google... 
+
+✅ Videos Mentioned Above :
+1. How to get Coursera Courses for Free :    • How to get Coursera Courses for Free ...  
+2. AI Agents Simply Explained in Hindi :    • AI Agents Simply Explained in Hindi |...  
+3. How to Become AI Engineer Roadmap :    • How to Become AI Engineer Roadmap in ...  
+
+
+
+***********************************************************************************
+0:00 - Intro
+2:15 - What AI Engineers Do ?
+5:33 - 1. Computer Science Fundamentals - 4 Week
+7:33 - 2. Python - 6 Week
+10:16 - 3. Data Structures - 2 Week
+11:45 - 4. SQL - Database - 2 Week
+13:08 - 5. Version Control - GIT and GITHUB - 1 Week
+14:54 - 6. Mathematics for AI 3-4 Week
+17:00 - 7. Data Visualization 
+18:20 - 8. EDA - Exploratory Data Analysis - 1 Week
+19:19 - 9. Machine Learning - 4 Week
+22:18 - 10. MLOPS - 1 Week
+25:02 - 11. Deep Learning - 2-3 Week
+26:28 - 12. NLP-LLM-LangChain - 4-6 Week
+29:17 - Tips for Getting the Job
