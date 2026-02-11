@@ -51,6 +51,10 @@ public class AddIntToArray {
 	
 	public static List<Integer> addToArrayFormV2(int[] num, int k) {
 
+		if (num == null) {
+	        num = new int[0];      // treat null as empty array
+	    }
+		
 	    List<Integer> result = new ArrayList<>();
 
 	    int i = num.length - 1;
