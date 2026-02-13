@@ -33,16 +33,16 @@ Constraints:
 
 Follow up: Could you solve it without converting the integer to a string?
  */
-public class PalindromeNumber {
+public class PalindromeNumber_9 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		
-		System.out.println(PalindromeNumber.isPalindromeV4(121));
-		System.out.println(PalindromeNumber.isPalindromeV4(-121));
-		System.out.println(PalindromeNumber.isPalindromeV4(010));
+		System.out.println(PalindromeNumber_9.isPalindromeV4(121));
+		System.out.println(PalindromeNumber_9.isPalindromeV4(-121));
+		System.out.println(PalindromeNumber_9.isPalindromeV4(010));
 
 	}
 	

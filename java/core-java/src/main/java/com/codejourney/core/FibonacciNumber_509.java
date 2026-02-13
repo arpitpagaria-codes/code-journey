@@ -38,21 +38,21 @@ Constraints:
 
 0 <= n <= 30
  */
-public class FibonacciNumber {
+public class FibonacciNumber_509 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("0 " + FibonacciNumber.fib(0));
-		System.out.println("1 " + FibonacciNumber.fib(1));
-		System.out.println("2 " + FibonacciNumber.fib(2));
-		System.out.println("3 " + FibonacciNumber.fib(3));
-		System.out.println("4 " + FibonacciNumber.fib(4));
-		System.out.println("5 " + FibonacciNumber.fib(5));
-		System.out.println("6 " + FibonacciNumber.fib(6));
-		System.out.println("7 " + FibonacciNumber.fib(7));
-		FibonacciNumber.printFibSeries(10);
+		System.out.println("0 " + FibonacciNumber_509.fib(0));
+		System.out.println("1 " + FibonacciNumber_509.fib(1));
+		System.out.println("2 " + FibonacciNumber_509.fib(2));
+		System.out.println("3 " + FibonacciNumber_509.fib(3));
+		System.out.println("4 " + FibonacciNumber_509.fib(4));
+		System.out.println("5 " + FibonacciNumber_509.fib(5));
+		System.out.println("6 " + FibonacciNumber_509.fib(6));
+		System.out.println("7 " + FibonacciNumber_509.fib(7));
+		FibonacciNumber_509.printFibSeries(10);
 
 		// checkTheNumberIsFibV1
 		System.out.println("0 - " + checkTheNumberIsFibV1(0));

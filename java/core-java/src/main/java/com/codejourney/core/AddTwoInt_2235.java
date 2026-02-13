@@ -27,10 +27,10 @@ Constraints:
 -100 <= num1, num2 <= 100
  */
 
-public class AddTwoInt {
+public class AddTwoInt_2235 {
 
 	public static void main(String[] args) {
-		AddTwoInt addTwoInt = new AddTwoInt();
+		AddTwoInt_2235 addTwoInt = new AddTwoInt_2235();
 		System.out.println(addTwoInt.sum(12, 5));
 		System.out.println(addTwoInt.sum(-10, 4));
 

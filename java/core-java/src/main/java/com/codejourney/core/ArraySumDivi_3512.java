@@ -55,11 +55,11 @@ Constraints:
 
  */
 
-public class ArraySumDivi {
+public class ArraySumDivi_3512 {
 
 	public static void main(String[] args) {
 		
-		ArraySumDivi arraySumDivi = new ArraySumDivi();
+		ArraySumDivi_3512 arraySumDivi = new ArraySumDivi_3512();
 		System.out.println(arraySumDivi.minOperations(new int[]{3, 9, 7}, 5));
 		System.out.println(arraySumDivi.minOperations(new int[]{4,1,3}, 4));
 		

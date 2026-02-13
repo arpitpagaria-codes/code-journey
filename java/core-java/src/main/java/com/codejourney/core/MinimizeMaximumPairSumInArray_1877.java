@@ -48,7 +48,7 @@ n is even.
 **** [4,1,5,1,2,5,1,5,5,4]
 output 8
  */
-public class MinimizeMaximumPairSumInArray {
+public class MinimizeMaximumPairSumInArray_1877 {
 
 	/**
 	 * @param args

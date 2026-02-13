@@ -42,7 +42,7 @@ nums2.length == n
 1 <= m + n <= 2000
 -106 <= nums1[i], nums2[i] <= 106
  */
-public class MedianOfTwoSortedArrays {
+public class MedianOfTwoSortedArrays_4 {
 
 	/**
 	 * @param args

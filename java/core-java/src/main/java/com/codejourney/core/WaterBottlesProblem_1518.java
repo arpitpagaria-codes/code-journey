@@ -40,7 +40,7 @@ Constraints:
 1 <= numBottles <= 100
 2 <= numExchange <= 100
  */
-public class WaterBottlesProblem {
+public class WaterBottlesProblem_1518 {
 
 	/**
 	 * @param args

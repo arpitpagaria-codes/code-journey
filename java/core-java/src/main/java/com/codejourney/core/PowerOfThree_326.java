@@ -40,22 +40,22 @@ Constraints:
 
 Follow up: Could you solve it without loops/recursion?
  */
-public class PowerOfThree {
+public class PowerOfThree_326 {
 
 	/**
 	 * @param args
 	 */
 	public static void main(String[] args) {
 		// V1
-		System.out.println("V1 1 - " + PowerOfThree.isPowerOfThreeV1(1));
-		System.out.println("V1 3 - " + PowerOfThree.isPowerOfThreeV1(3));
-		System.out.println("V1 9 - " + PowerOfThree.isPowerOfThreeV1(9));
-		System.out.println("V1 10 - " + PowerOfThree.isPowerOfThreeV1(10));
-		System.out.println("V1 15 - " + PowerOfThree.isPowerOfThreeV1(15));
+		System.out.println("V1 1 - " + PowerOfThree_326.isPowerOfThree_326V1(1));
+		System.out.println("V1 3 - " + PowerOfThree_326.isPowerOfThree_326V1(3));
+		System.out.println("V1 9 - " + PowerOfThree_326.isPowerOfThree_326V1(9));
+		System.out.println("V1 10 - " + PowerOfThree_326.isPowerOfThree_326V1(10));
+		System.out.println("V1 15 - " + PowerOfThree_326.isPowerOfThree_326V1(15));
 
 	}
 
-	public static boolean isPowerOfThreeV1(int n) {
+	public static boolean isPowerOfThree_326V1(int n) {
 		if (n < 1) {
 			return false;
 		} else if (n == 1) {
@@ -77,7 +77,7 @@ public class PowerOfThree {
 	 * 
 	 *         If n has any other prime factor, modulo ≠ 0
 	 */
-	public static boolean isPowerOfThree(int n) {
+	public static boolean isPowerOfThree_326(int n) {
 		return n > 0 && 1162261467 % n == 0;
 	}
 

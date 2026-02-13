@@ -34,7 +34,7 @@ import java.util.List;
  * 1 <= num.length <= 104 0 <= num[i] <= 9 num does not contain any leading
  * zeros except for the zero itself. 1 <= k <= 104
  */
-public class AddIntToArray {
+public class AddIntToArray_989 {
 
 	/**
 	 * @param args

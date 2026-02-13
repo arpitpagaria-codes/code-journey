@@ -35,7 +35,7 @@ Constraints:
 2 <= nums.length <= 500
 1 <= nums[i] <= 10^3
  */
-public class MaximumProductofTwoElementsInArray {
+public class MaximumProductofTwoElementsInArray_1464 {
 
 	/**
 	 * @param args

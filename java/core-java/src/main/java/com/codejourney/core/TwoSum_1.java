@@ -40,7 +40,7 @@ Only one valid answer exists.
 
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
  */
-public class TwoSum {
+public class TwoSum_1 {
 
 	/**
 	 * @param args
