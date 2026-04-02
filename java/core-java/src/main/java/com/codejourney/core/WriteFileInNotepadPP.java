@@ -12,7 +12,7 @@ public class WriteFileInNotepadPP {
         	long startTime = System.currentTimeMillis();
             Robot robot = new Robot();
 
-            // Give yourself 2 seconds to switch focus to desktop
+            // Give yourself 2 seceonds to switch focus to desktop
             System.out.println("Switch to Desktop quickly! Opening in 2 seconds...");
             Thread.sleep(2000);
 
